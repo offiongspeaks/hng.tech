@@ -27,7 +27,7 @@
                         <p>I am proficient in Javascript and familiar with relevant web technologies</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>HTML | CSS | Javascript</p>
+                        <p>HTML | Bootstrap | Javascript</p>
                      </div>
                   </div>
                </div>
